@@ -3,6 +3,7 @@
     "minimum-stability": "beta",
     "description": "ChatGPT Open AI package",
     "type": "composer-plugin",
+    "version": "1.0.0",
     "require": {
         "illuminate/http": "^10.8",
         "guzzlehttp/guzzle": "^7.5"
