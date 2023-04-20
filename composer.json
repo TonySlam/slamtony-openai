@@ -5,8 +5,7 @@
     "type": "composer-plugin",
     "require": {
         "illuminate/http": "^10.8",
-        "guzzlehttp/guzzle": "^7.5",
-        "slamtony/openai": "1.0.0-beta"
+        "guzzlehttp/guzzle": "^7.5"
     },
     "license": "MIT",
     "autoload": {
