@@ -1,0 +1,21 @@
+{
+    "name": "slamtony/openai",
+    "description": "ChatGPT Open AI package",
+    "type": "composer-plugin",
+    "require": {
+        "illuminate/http": "^10.8",
+        "guzzlehttp/guzzle": "^7.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Slamtony\\Openai\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tony Moakamela",
+            "email": "thabo.tony@gmail.com"
+        }
+    ]
+}
