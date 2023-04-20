@@ -1,11 +1,12 @@
 {
     "name": "slamtony/openai",
-    "minimum-stability": "dev",
+    "minimum-stability": "beta",
     "description": "ChatGPT Open AI package",
     "type": "composer-plugin",
     "require": {
         "illuminate/http": "^10.8",
-        "guzzlehttp/guzzle": "^7.5"
+        "guzzlehttp/guzzle": "^7.5",
+        "slamtony/openai": "1.0.0-beta"
     },
     "license": "MIT",
     "autoload": {
