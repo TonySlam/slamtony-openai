@@ -1,8 +1,8 @@
 {
     "name": "slamtony/openai",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "description": "ChatGPT Open AI package",
-    "type": "composer-plugin",
+    "type": "library",
     "version": "1.0.0",
     "require": {
         "illuminate/http": "^10.8",
